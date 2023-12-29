@@ -1,5 +1,3 @@
-import './ExpenseItem.css';
-
 function ExpenseDetails(props){
 
 return(
